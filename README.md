@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Saya **Satria Nata Bhaskara**
+I’m **Satria Nata Bhaskara**
 🌱 I’m currently learning Go
 
 <!--
