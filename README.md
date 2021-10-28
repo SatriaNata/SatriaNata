@@ -1,6 +1,7 @@
 ### Hi 👋 I’m **Satria Nata Bhaskara**
 🌱 I’m currently learning Go
 
+<!--
 <p align="left">
 <a href="https://github.com/SatriaNata">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SatriaNata&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -8,7 +9,7 @@
 </a>
 </p>
 
-<!--
+
 **SatriaNata/SatriaNata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
