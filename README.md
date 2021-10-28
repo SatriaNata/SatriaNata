@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I’m **Satria Nata Bhaskara**
+### Hi 👋 I’m **Satria Nata Bhaskara**
 🌱 I’m currently learning Go
 
 <!--
