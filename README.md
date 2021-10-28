@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Saya **Satria Nata Bhaskara**
+🌱 I’m currently learning Go
+
 <!--
 **SatriaNata/SatriaNata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
