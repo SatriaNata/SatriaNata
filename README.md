@@ -1,5 +1,7 @@
 ### Hi 👋 I’m **Satria Nata Bhaskara**
-🌱 I’m currently learning Go
+Experienced software engineer with over 2 years of experience working specialized in the backend. 
+Experienced in developing applications using Agile Development methodologies, developing application utilizing microservice architecture. 
+Still learning NodeJS, .NET, Go
 
 <!--
 <p align="left">
