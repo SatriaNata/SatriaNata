@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Satria Nata Bhaskara
 
-Backend Engineer with **4+ years of experience** building scalable backend systems with **Node.js** and **.NET**, currently based in Bandung, Indonesia.
+Backend Engineer with **4+ years of experience** building scalable backend systems with **Node.js** and **.NET**. Originally from Bandung, currently working on-site in Jakarta, Indonesia.
 
 I enjoy designing microservices, optimizing databases, and making APIs fast and reliable. Outside of work, I've been actively analyzing the Indonesian stock market since 2020, and I'm interested in where **technology, data, and finance** meet.
 
