@@ -29,7 +29,7 @@ I enjoy designing microservices, optimizing databases, and making APIs fast and 
 
 #### 🌱 Currently exploring
 
-Next.js · Go · Kafka · AI-assisted development
+Go · Kafka · AI-assisted development
 
 #### 📫 Reach me
 
