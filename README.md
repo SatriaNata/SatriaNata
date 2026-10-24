@@ -24,7 +24,7 @@ I enjoy designing microservices, optimizing databases, and making APIs fast and 
 
 - Designed a **microservices architecture** (auth, core services, user management) for better deployment flexibility and maintainability
 - Improved API performance with **Redis caching**, query optimization, and async communication via **RabbitMQ**
-- Built **payment & withdrawal APIs** integrated with the Xendit payment gateway, including webhook handling and transaction validation
+- Built **payment APIs** integrated with the Xendit payment gateway, including webhook handling and transaction validation
 - Integrated **Meilisearch** to improve search speed and relevance
 
 #### 🌱 Currently exploring
